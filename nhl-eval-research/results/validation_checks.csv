@@ -1,0 +1,5 @@
+check,split,n_train,n_test,model_r2_mean,model_r2_std,baseline_r2_mean,baseline_r2_std
+random_rows_5fold,all seasons,439,109,0.4621,0.0107,0.318,0.0065
+player_grouped_5fold,all seasons,439,109,0.4516,0.0145,0.3094,0.0129
+walk_forward,test 24-25,280,174,0.3943,0.0119,0.2348,0.0
+walk_forward,test 25-26,454,95,0.3958,0.017,0.1523,0.0
